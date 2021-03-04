@@ -1,0 +1,26 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TykhonchukIvan/unit-testing-js.git"
+  },
+  "author": "Ivan Tykhonchuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TykhonchukIvan/unit-testing-js/issues"
+  },
+  "homepage": "https://github.com/TykhonchukIvan/unit-testing-js#readme",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "wretch": "^1.7.4"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
